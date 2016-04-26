@@ -14,3 +14,4 @@
 - [Частые вопросы](http://dev.1c-bitrix.ru/support/faq/)
 - [Архив учебного видео](http://dev.1c-bitrix.ru/learning/video.php)
 - [Форумы](http://dev.1c-bitrix.ru/community/forums/)
+- [Блоги](http://dev.1c-bitrix.ru/community/webdev-blogs/)
