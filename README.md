@@ -11,3 +11,4 @@
 
 ## Другое
 - [База знаний](http://dev.1c-bitrix.ru/docs/knowledge_base/)
+- [Частые вопросы](http://dev.1c-bitrix.ru/support/faq/)
