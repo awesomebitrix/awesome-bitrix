@@ -1,5 +1,4 @@
-# bitrix-somethings
-
+# Awesome Bitrix
 ## Учебные курсы
 - [Учебные онлайн-курсы](http://dev.1c-bitrix.ru/learning/index.php#tab-online-link)
 - [Администратор. Базовый](http://dev.1c-bitrix.ru/learning/course/?COURSE_ID=35)
