@@ -2,6 +2,7 @@
 ## Учебные курсы
 - [Учебные онлайн-курсы](http://dev.1c-bitrix.ru/learning/index.php#tab-online-link)
 - [Администратор. Базовый](http://dev.1c-bitrix.ru/learning/course/?COURSE_ID=35)
+- [D7. Разработка собственного модуля](http://academy.1c-bitrix.ru/education/index.php?COURSE_ID=91&INDEX=Y)
 
 ## Документация
 - [Пользовательская документация](http://dev.1c-bitrix.ru/user_help/)
