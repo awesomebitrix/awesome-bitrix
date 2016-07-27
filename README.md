@@ -18,6 +18,7 @@
 - [1C-Битрикс: Виртуальная машина](http://www.1c-bitrix.ru/products/vmbitrix/)
 - [Скрипт BitrixSetup для удаленной установки на хостинг](http://www.1c-bitrix.ru/download/scripts/bitrixsetup.php)
 - [1C-Битрикс: Веб-окружение для Linux](http://repos.1c-bitrix.ru/yum/bitrix-env.sh)
+- [1C-Битрикс: Веб-окружение для Windows](http://www.1c-bitrix.ru/download/bitrixenv/bitrix_env.exe)
 
 ## Дистрибутивы
 - [1C-Битрикс: Управление сайтом](http://www.1c-bitrix.ru/download/cms.php)
