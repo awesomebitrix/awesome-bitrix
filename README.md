@@ -14,6 +14,9 @@
 - [Документация для разработчиков по REST API](http://dev.1c-bitrix.ru/rest_help/)
 - [Документация по d7](http://dev.1c-bitrix.ru/api_d7/index.php)
 
+## Инструменты
+- [1C-Битрикс: Виртуальная машина](http://www.1c-bitrix.ru/products/vmbitrix/)
+
 ## Другое
 - [База знаний](http://dev.1c-bitrix.ru/docs/knowledge_base/)
 - [Частые вопросы](http://dev.1c-bitrix.ru/support/faq/)
