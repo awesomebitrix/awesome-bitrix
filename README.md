@@ -16,6 +16,7 @@
 
 ## Инструменты
 - [1C-Битрикс: Виртуальная машина](http://www.1c-bitrix.ru/products/vmbitrix/)
+- [Скрипт BitrixSetup для удаленной установки на хостинг](http://www.1c-bitrix.ru/download/scripts/bitrixsetup.php)
 
 ## Дистрибутивы
 - [1C-Битрикс: Управление сайтом](http://www.1c-bitrix.ru/download/cms.php)
