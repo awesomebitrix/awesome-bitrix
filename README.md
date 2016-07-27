@@ -17,9 +17,13 @@
 ## Инструменты
 - [1C-Битрикс: Виртуальная машина](http://www.1c-bitrix.ru/products/vmbitrix/)
 
+## Дистрибутивы
+- [1C-Битрикс: Управление сайтом](http://www.1c-bitrix.ru/download/cms.php)
+
 ## Другое
 - [База знаний](http://dev.1c-bitrix.ru/docs/knowledge_base/)
 - [Частые вопросы](http://dev.1c-bitrix.ru/support/faq/)
 - [Архив учебного видео](http://dev.1c-bitrix.ru/learning/video.php)
 - [Форумы](http://dev.1c-bitrix.ru/community/forums/)
 - [Блоги](http://dev.1c-bitrix.ru/community/webdev-blogs/)
+- 
