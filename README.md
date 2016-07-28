@@ -20,6 +20,7 @@
 - [1C-Битрикс: Веб-окружение для Linux](http://repos.1c-bitrix.ru/yum/bitrix-env.sh)
 - [1C-Битрикс: Веб-окружение для Windows](http://www.1c-bitrix.ru/download/bitrixenv/bitrix_env.exe)
 - [Скрипт тестирования конфигурации сервера](http://www.1c-bitrix.ru/download/files/scripts/bitrix_server_test.php)
+- [Скрипт восстановления из резервной копии](http://www.1c-bitrix.ru/download/scripts/restore.php)
 
 ## Дистрибутивы
 - [1C-Битрикс: Управление сайтом](http://www.1c-bitrix.ru/download/cms.php)
