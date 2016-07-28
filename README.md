@@ -8,6 +8,7 @@
 - [Разработка и эксплуатация высоконагруженных проектов](https://dev.1c-bitrix.ru/learning/course/?COURSE_ID=38)
 - [Разработчик Bitrix Framework](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43)
 - [Интеграция дизайна и настройка платформы](http://academy.1c-bitrix.ru/education/?COURSE_ID=65)
+- [Ответы на вопросы по сертификации 1С-Битрикс](http://bx-cert.ru/certification/bitrix/all/)
 
 ## Документация
 - [Пользовательская документация](http://dev.1c-bitrix.ru/user_help/)
