@@ -6,7 +6,7 @@
 - [Разработка на D7. Введение](http://academy.1c-bitrix.ru/education/index.php?COURSE_ID=85&INDEX=Y)
 - [Бизнес-процессы в Битрикс24. Интенсив](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=97)
 - [Разработка и эксплуатация высоконагруженных проектов](https://dev.1c-bitrix.ru/learning/course/?COURSE_ID=38)
-
+- [Разработчик Bitrix Framework](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43)
 
 ## Документация
 - [Пользовательская документация](http://dev.1c-bitrix.ru/user_help/)
