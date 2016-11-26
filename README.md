@@ -10,6 +10,7 @@
 - [Пользователь коробочной версии Битрикса24](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=71)
 - [Администратор сервиса Битрикс24 (коробочная версия)](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=48)
 - [Внедрение корпоративного портала](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=53)
+- [Технология Композитный сайт](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=39)
 - [D7. Разработка собственного модуля](http://academy.1c-bitrix.ru/education/index.php?COURSE_ID=91&INDEX=Y)
 - [Разработка на D7. Введение](http://academy.1c-bitrix.ru/education/index.php?COURSE_ID=85&INDEX=Y)
 - [Бизнес-процессы в Битрикс24. Интенсив](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=97)
