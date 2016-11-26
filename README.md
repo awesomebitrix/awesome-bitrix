@@ -50,6 +50,7 @@
 
 - [Вики ЦИТ Факт](https://github.com/studiofact/wiki-bitrix/wiki)
 - [Битрикс-эксперты](http://bitrix.expert/)
+- [Блог компании Интерволга](http://www.intervolga.ru/blog/)
 
 ## Github, Bitbucket, etc
 
