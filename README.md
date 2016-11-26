@@ -23,6 +23,7 @@
 - [Основные технологии и расширение типовых возможностей системы](https://academy.1c-bitrix.ru/training/course/5863/)
 - [Разработчик Bitrix Framework](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43)
 - [Интеграция дизайна и настройка платформы](http://academy.1c-bitrix.ru/education/?COURSE_ID=65)
+- [Расширенные технологии и производительность](https://academy.1c-bitrix.ru/training/course/5864/)
 - [Ответы на вопросы по сертификации 1С-Битрикс](http://bx-cert.ru/certification/bitrix/all/)
 
 ## Документация
