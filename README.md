@@ -13,6 +13,7 @@
 - [Технология Композитный сайт](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=39)
 - [Бизнес-процессы](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=57)
 - [Виртуальная машина BitrixVM](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=37)
+- [BitrixMobile - создание кроссплатформенных мобильных приложений](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=80)
 - [D7. Разработка собственного модуля](http://academy.1c-bitrix.ru/education/index.php?COURSE_ID=91&INDEX=Y)
 - [Разработка на D7. Введение](http://academy.1c-bitrix.ru/education/index.php?COURSE_ID=85&INDEX=Y)
 - [Бизнес-процессы в Битрикс24. Интенсив](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=97)
