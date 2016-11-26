@@ -3,6 +3,7 @@
 - [Учебные онлайн-курсы](http://dev.1c-bitrix.ru/learning/index.php#tab-online-link)
 - [Контент-менеджер](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34)
 - [Администратор. Базовый](http://dev.1c-bitrix.ru/learning/course/?COURSE_ID=35)
+- [Администратор. Модули](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=41)
 - [D7. Разработка собственного модуля](http://academy.1c-bitrix.ru/education/index.php?COURSE_ID=91&INDEX=Y)
 - [Разработка на D7. Введение](http://academy.1c-bitrix.ru/education/index.php?COURSE_ID=85&INDEX=Y)
 - [Бизнес-процессы в Битрикс24. Интенсив](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=97)
