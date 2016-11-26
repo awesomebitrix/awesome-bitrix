@@ -41,6 +41,7 @@
 - [Скрипт тестирования конфигурации сервера](http://www.1c-bitrix.ru/download/files/scripts/bitrix_server_test.php)
 - [Скрипт восстановления из резервной копии](http://www.1c-bitrix.ru/download/scripts/restore.php)
 - [Console Jedi](https://github.com/notamedia/console-jedi)
+- [Monolog adapter for Bitrix CMS](https://github.com/bitrix-expert/monolog-adapter)
 
 ## Дистрибутивы
 - [1C-Битрикс: Управление сайтом](http://www.1c-bitrix.ru/download/cms.php)
