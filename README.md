@@ -7,6 +7,7 @@
 - [Администратор. Бизнес](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42)
 - [Курс для хостеров](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=32)
 - [Пользователь сервиса Битрикс24](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=52)
+- [Пользователь коробочной версии Битрикса24](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=71)
 - [D7. Разработка собственного модуля](http://academy.1c-bitrix.ru/education/index.php?COURSE_ID=91&INDEX=Y)
 - [Разработка на D7. Введение](http://academy.1c-bitrix.ru/education/index.php?COURSE_ID=85&INDEX=Y)
 - [Бизнес-процессы в Битрикс24. Интенсив](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=97)
