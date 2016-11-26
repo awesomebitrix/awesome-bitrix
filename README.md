@@ -53,6 +53,7 @@
 ## Github, Bitbucket, etc
 
 - [Битрикс-эксперты](https://github.com/bitrix-expert)
+- [Nota Media](https://github.com/notamedia)
 
 ## Другое
 - [База знаний](http://dev.1c-bitrix.ru/docs/knowledge_base/)
