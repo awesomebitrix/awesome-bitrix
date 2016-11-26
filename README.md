@@ -48,6 +48,7 @@
 
 ## Блоги
 
+- [Вики ЦИТ Факт](https://github.com/studiofact/wiki-bitrix/wiki)
 - [Битрикс-эксперты](http://bitrix.expert/)
 
 ## Github, Bitbucket, etc
