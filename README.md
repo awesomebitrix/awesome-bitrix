@@ -1,6 +1,7 @@
 # Awesome Bitrix
 ## Учебные курсы
 - [Учебные онлайн-курсы](http://dev.1c-bitrix.ru/learning/index.php#tab-online-link)
+- [Контент-менеджер](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34)
 - [Администратор. Базовый](http://dev.1c-bitrix.ru/learning/course/?COURSE_ID=35)
 - [D7. Разработка собственного модуля](http://academy.1c-bitrix.ru/education/index.php?COURSE_ID=91&INDEX=Y)
 - [Разработка на D7. Введение](http://academy.1c-bitrix.ru/education/index.php?COURSE_ID=85&INDEX=Y)
