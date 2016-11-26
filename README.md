@@ -52,6 +52,7 @@
 
 ## Github, Bitbucket, etc
 
+- [ЦИТ Факт](https://github.com/studiofact/)
 - [Битрикс-эксперты](https://github.com/bitrix-expert)
 - [Nota Media](https://github.com/notamedia)
 
