@@ -48,6 +48,7 @@
 
 ## Блоги
 
+- [Блог компании 1С-Битрикс на Хабрахабр](https://habrahabr.ru/company/bitrix/)
 - [Вики ЦИТ Факт](https://github.com/studiofact/wiki-bitrix/wiki)
 - [Битрикс-эксперты](http://bitrix.expert/)
 - [Блог компании Интерволга](http://www.intervolga.ru/blog/)
