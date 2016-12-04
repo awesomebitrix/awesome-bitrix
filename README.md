@@ -1,4 +1,4 @@
-# Awesome Bitrix
+# Потрясающий Битрикс
 ## Учебные курсы
 - [Учебные онлайн-курсы](http://dev.1c-bitrix.ru/learning/index.php#tab-online-link)
 - [Контент-менеджер](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34)
