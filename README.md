@@ -2,7 +2,17 @@
 
 Редактируемый список удивительно потрясающих ресурсов и статей, компонент и модулей, посвященных Битриксу.
 
-## Учебные курсы
+## Содержание
+
+- [Учебные курсы](#courses)
+- [Документация](#docs)
+- [Инструменты](#tools)
+- [Дистрибутивы](#dists)
+- [Блоги](#blogs)
+- [Github, Bitbucket, etc](#repos)
+- [Другое](#other)
+
+## <a id="courses">Учебные курсы</a>
 - [Учебные онлайн-курсы](http://dev.1c-bitrix.ru/learning/index.php#tab-online-link)
 - [Контент-менеджер](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34)
 - [Администратор. Базовый](http://dev.1c-bitrix.ru/learning/course/?COURSE_ID=35)
@@ -30,13 +40,13 @@
 - [Маркетплейс Битрикс24](https://academy.1c-bitrix.ru/training/course/7365/)
 - [Ответы на вопросы по сертификации 1С-Битрикс](http://bx-cert.ru/certification/bitrix/all/)
 
-## Документация
+## <a id="docs">Документация</a>
 - [Пользовательская документация](http://dev.1c-bitrix.ru/user_help/)
 - [Документация для разработчиков](http://dev.1c-bitrix.ru/api_help/)
 - [Документация для разработчиков по REST API](http://dev.1c-bitrix.ru/rest_help/)
 - [Документация по d7](http://dev.1c-bitrix.ru/api_d7/index.php)
 
-## Инструменты
+## <a id="tools">Инструменты</a>
 - [1C-Битрикс: Виртуальная машина](http://www.1c-bitrix.ru/products/vmbitrix/)
 - [Скрипт BitrixSetup для удаленной установки на хостинг](http://www.1c-bitrix.ru/download/scripts/bitrixsetup.php)
 - [1C-Битрикс: Веб-окружение для Linux](http://repos.1c-bitrix.ru/yum/bitrix-env.sh)
@@ -47,23 +57,23 @@
 - [Monolog adapter for Bitrix CMS](https://github.com/bitrix-expert/monolog-adapter)
 - [Генератор форм на основе инфоблоков или highload инфоблоков для 1C-Bitrix](https://github.com/studiofact/citfact.form)
 
-## Дистрибутивы
+## <a id="dists">Дистрибутивы</a>
 - [1C-Битрикс: Управление сайтом](http://www.1c-bitrix.ru/download/cms.php)
 
-## Блоги
+## <a id="blogs">Блоги</a>
 
 - [Блог компании 1С-Битрикс на Хабрахабр](https://habrahabr.ru/company/bitrix/)
 - [Вики ЦИТ Факт](https://github.com/studiofact/wiki-bitrix/wiki)
 - [Битрикс-эксперты](http://bitrix.expert/)
 - [Блог компании Интерволга](http://www.intervolga.ru/blog/)
 
-## Github, Bitbucket, etc
+## <a id="repos">Github, Bitbucket, etc</a>
 
 - [ЦИТ Факт](https://github.com/studiofact/)
 - [Битрикс-эксперты](https://github.com/bitrix-expert)
 - [Nota Media](https://github.com/notamedia)
 
-## Другое
+## <a id="other">Другое</a>
 - [База знаний](http://dev.1c-bitrix.ru/docs/knowledge_base/)
 - [Частые вопросы](http://dev.1c-bitrix.ru/support/faq/)
 - [Архив учебного видео](http://dev.1c-bitrix.ru/learning/video.php)
