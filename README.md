@@ -80,6 +80,11 @@
 - [Форумы](http://dev.1c-bitrix.ru/community/forums/)
 - [Блоги](http://dev.1c-bitrix.ru/community/webdev-blogs/)
 
+## Как внести вклад
+
+Добавления, замечания и любое участие приветствуется!
+Пожалуйста, изучите [рекомендации по участию](contributing.md).
+
 ## Лицензия
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
