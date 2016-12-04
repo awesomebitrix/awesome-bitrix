@@ -79,3 +79,9 @@
 - [Архив учебного видео](http://dev.1c-bitrix.ru/learning/video.php)
 - [Форумы](http://dev.1c-bitrix.ru/community/forums/)
 - [Блоги](http://dev.1c-bitrix.ru/community/webdev-blogs/)
+
+## Лицензия
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Насколько это возможно в соответствии с действующим законодательством, [Антон Воробьев](http://vorobyev.co) отказывается от всех авторских и смежных прав на эту работу.
