@@ -7,6 +7,7 @@
 - [Учебные курсы](#courses)
 - [Документация](#docs)
 - [Инструменты](#tools)
+- [Библиотеки PHP](#php-libs)
 - [Дистрибутивы](#dists)
 - [Блоги](#blogs)
 - [Github, Bitbucket, etc](#repos)
@@ -56,6 +57,9 @@
 - [Console Jedi](https://github.com/notamedia/console-jedi)
 - [Monolog adapter for Bitrix CMS](https://github.com/bitrix-expert/monolog-adapter)
 - [Генератор форм на основе инфоблоков или highload инфоблоков для 1C-Bitrix](https://github.com/studiofact/citfact.form)
+
+## <a id="php-libs">Библиотеки PHP</a>
+- [Контейнер для внедрения зависимостей](http://container.thephpleague.com/)
 
 ## <a id="dists">Дистрибутивы</a>
 - [1C-Битрикс: Управление сайтом](http://www.1c-bitrix.ru/download/cms.php)
