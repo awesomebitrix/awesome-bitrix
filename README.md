@@ -57,6 +57,7 @@
 - [Console Jedi](https://github.com/notamedia/console-jedi)
 - [Monolog adapter for Bitrix CMS](https://github.com/bitrix-expert/monolog-adapter)
 - [Генератор форм на основе инфоблоков или highload инфоблоков для 1C-Bitrix](https://github.com/studiofact/citfact.form)
+- [PJAX для 1C-Bitrix](https://github.com/studiofact/citfact.pjax)
 
 ## <a id="php-libs">Библиотеки PHP</a>
 - [Контейнер для внедрения зависимостей](http://container.thephpleague.com/)
