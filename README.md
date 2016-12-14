@@ -60,6 +60,7 @@
 - [PJAX для 1C-Bitrix](https://github.com/studiofact/citfact.pjax)
 - [Bitrix24 PHP SDK](https://github.com/mesilov/bitrix24-php-sdk)
 - [1C-Bitrix Migrations](https://github.com/worksolutions/bitrix-module-migrations)
+- [Сниппеты стандартных компонент Bitrix](https://github.com/matiaspub/bxCompSnpt)
 
 ## <a id="php-libs">Библиотеки PHP</a>
 - [Контейнер для внедрения зависимостей](http://container.thephpleague.com/)
