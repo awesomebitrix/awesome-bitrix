@@ -73,6 +73,7 @@
 - [Вики ЦИТ Факт](https://github.com/studiofact/wiki-bitrix/wiki)
 - [Битрикс-эксперты](http://bitrix.expert/)
 - [Блог компании Интерволга](http://www.intervolga.ru/blog/)
+- [База знаний Рабочих решений](https://github.com/worksolutions/knowbase)
 
 ## <a id="repos">Github, Bitbucket, etc</a>
 
