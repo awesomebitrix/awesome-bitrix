@@ -8,6 +8,7 @@
 - [Документация](#docs)
 - [Инструменты](#tools)
 - [Библиотеки PHP](#php-libs)
+- [Библиотеки JavaScript](#js-libs)
 - [Дистрибутивы](#dists)
 - [Блоги](#blogs)
 - [Статьи](#articles)
@@ -64,7 +65,12 @@
 - [Сниппеты стандартных компонент Bitrix](https://github.com/matiaspub/bxCompSnpt)
 
 ## <a id="php-libs">Библиотеки PHP</a>
+
 - [Контейнер для внедрения зависимостей](http://container.thephpleague.com/)
+
+## <a id="js-libs">Библиотеки JavaScript</a>
+
+- [Vue.js](https://vuejs.org/)
 
 ## <a id="dists">Дистрибутивы</a>
 - [1C-Битрикс: Управление сайтом](http://www.1c-bitrix.ru/download/cms.php)
