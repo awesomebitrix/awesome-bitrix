@@ -10,6 +10,7 @@
 - [Библиотеки PHP](#php-libs)
 - [Дистрибутивы](#dists)
 - [Блоги](#blogs)
+- [Статьи](#articles)
 - [Github, Bitbucket, etc](#repos)
 - [Другое](#other)
 
@@ -75,6 +76,10 @@
 - [Битрикс-эксперты](http://bitrix.expert/)
 - [Блог компании Интерволга](http://www.intervolga.ru/blog/)
 - [База знаний Рабочих решений](https://github.com/worksolutions/knowbase)
+
+## <a id="articles">Статьи</a>
+
+- [D7-аналоги любимых функций в 1С-Битрикс](http://www.intervolga.ru/blog/projects/d7-analogi-lyubimykh-funktsiy-v-1s-bitriks/)
 
 ## <a id="repos">Github, Bitbucket, etc</a>
 
