@@ -15,6 +15,8 @@
 - [Статьи](#articles)
 - [Github, Bitbucket, etc](#repos)
 - [Другое](#other)
+- [Как внести вклад](#contributing)
+- [Лицензия](#license)
 
 ## <a id="courses">Учебные курсы</a>
 - [Учебные онлайн-курсы](http://dev.1c-bitrix.ru/learning/index.php#tab-online-link)
@@ -102,12 +104,12 @@
 - [Форумы](http://dev.1c-bitrix.ru/community/forums/)
 - [Блоги](http://dev.1c-bitrix.ru/community/webdev-blogs/)
 
-## Как внести вклад
+## <a id="contributing">Как внести вклад</a>
 
 Добавления, замечания и любое участие приветствуется!
 Пожалуйста, изучите [рекомендации по участию](contributing.md).
 
-## Лицензия
+## <a id="license">Лицензия</a>
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
