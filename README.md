@@ -63,6 +63,7 @@
 - [Bitrix24 PHP SDK](https://github.com/mesilov/bitrix24-php-sdk)
 - [1C-Bitrix Migrations](https://github.com/worksolutions/bitrix-module-migrations)
 - [Сниппеты стандартных компонент Bitrix](https://github.com/matiaspub/bxCompSnpt)
+- [Webpack](https://webpack.github.io/)
 
 ## <a id="php-libs">Библиотеки PHP</a>
 
