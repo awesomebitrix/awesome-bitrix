@@ -5,6 +5,10 @@
 
 Редактируемый список удивительно потрясающих ресурсов и статей, компонент и модулей, посвященных Битриксу.
 
+- [Чат](https://gitter.im/awesomebitrix/awesome-bitrix)
+- [Как внести вклад](#contributing)
+- [Лицензия](#license)
+
 ## Содержание
 
 - [Учебные курсы](#courses)
@@ -17,8 +21,6 @@
 - [Статьи](#articles)
 - [Github, Bitbucket, etc](#repos)
 - [Другое](#other)
-- [Как внести вклад](#contributing)
-- [Лицензия](#license)
 
 ## <a id="courses">Учебные курсы</a>
 - [Учебные онлайн-курсы](http://dev.1c-bitrix.ru/learning/index.php#tab-online-link)
