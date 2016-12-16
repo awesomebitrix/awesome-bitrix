@@ -9,6 +9,8 @@
 - [Как внести вклад](#contributing)
 - [Лицензия](#license)
 
+Потрясающий Битрикс доступен по адресу [awesomebitrix.github.io](http://awesomebitrix.github.io).
+
 ## Содержание
 
 - [Учебные курсы](#courses)
