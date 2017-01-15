@@ -109,6 +109,8 @@
 - [Архив учебного видео](http://dev.1c-bitrix.ru/learning/video.php)
 - [Форумы](http://dev.1c-bitrix.ru/community/forums/)
 - [Блоги](http://dev.1c-bitrix.ru/community/webdev-blogs/)
+- [Группа социальной сети "Виртуальные машины Битрикс"](http://dev.1c-bitrix.ru/community/webdev/group/70/)
+- [Обсуждение на форуме "Виртуальная машина BitrixVM"](http://dev.1c-bitrix.ru/community/forums/forum32/)
 
 ## <a id="contributing">Как внести вклад</a>
 
