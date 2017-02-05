@@ -22,6 +22,7 @@
 - [Блоги](#blogs)
 - [Статьи](#articles)
 - [Github, Bitbucket, etc](#repos)
+- [Конференции](#confs)
 - [Другое](#other)
 
 ## <a id="courses">Учебные курсы</a>
@@ -102,6 +103,9 @@
 - [ЦИТ Факт](https://github.com/studiofact/)
 - [Битрикс-эксперты](https://github.com/bitrix-expert)
 - [Nota Media](https://github.com/notamedia)
+
+## <a id="confs">Конференции</a>
+- [Видео с партнерской конференций "1С-Битрикс" (Январь 2017)](http://conf.1c-bitrix.ru/winter2017/online/)
 
 ## <a id="other">Другое</a>
 - [База знаний](http://dev.1c-bitrix.ru/docs/knowledge_base/)
