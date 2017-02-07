@@ -96,6 +96,7 @@
 ## <a id="articles">Статьи</a>
 
 - [D7-аналоги любимых функций в 1С-Битрикс](http://www.intervolga.ru/blog/projects/d7-analogi-lyubimykh-funktsiy-v-1s-bitriks/)
+- [Изменение цен товара через обработчики в init.php](http://dev.1c-bitrix.ru/community/webdev/user/17090/blog/12425/)
 
 ## <a id="repos">Github, Bitbucket, etc</a>
 
