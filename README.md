@@ -51,6 +51,7 @@
 - [Расширенные технологии и производительность](https://academy.1c-bitrix.ru/training/course/5864/)
 - [Маркетплейс Битрикс24](https://academy.1c-bitrix.ru/training/course/7365/)
 - [Ответы на вопросы по сертификации 1С-Битрикс](http://bx-cert.ru/certification/bitrix/all/)
+- [Маркетплейс Bitrix Framework](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=101)
 
 ## <a id="docs">Документация</a>
 - [Пользовательская документация](http://dev.1c-bitrix.ru/user_help/)
