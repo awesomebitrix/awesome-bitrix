@@ -53,6 +53,7 @@
 - [Маркетплейс Битрикс24](https://academy.1c-bitrix.ru/training/course/7365/)
 - [Ответы на вопросы по сертификации 1С-Битрикс](http://bx-cert.ru/certification/bitrix/all/)
 - [Маркетплейс Bitrix Framework](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=101)
+- [Многосайтовость](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=103)
 
 ## <a id="docs">Документация</a>
 - [Пользовательская документация](http://dev.1c-bitrix.ru/user_help/)
