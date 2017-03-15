@@ -92,6 +92,7 @@
 - [Битрикс-эксперты](http://bitrix.expert/)
 - [Блог компании Интерволга](http://www.intervolga.ru/blog/)
 - [База знаний Рабочих решений](https://github.com/worksolutions/knowbase)
+- [Блог "Документация, курсы и все остальное..." Роберта Басырова](https://dev.1c-bitrix.ru/community/blogs/Docs_and_other/)
 
 ## <a id="articles">Статьи</a>
 
