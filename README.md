@@ -105,7 +105,7 @@
 - [Nota Media](https://github.com/notamedia)
 
 ## <a id="confs">Конференции</a>
-- [Видео с партнерской конференций "1С-Битрикс" (Январь 2017)](http://conf.1c-bitrix.ru/winter2017/online/)
+- [Видео с партнерской конференции "1С-Битрикс" (Январь 2017)](http://conf.1c-bitrix.ru/winter2017/online/)
 
 ## <a id="other">Другое</a>
 - [База знаний](http://dev.1c-bitrix.ru/docs/knowledge_base/)
