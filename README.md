@@ -108,6 +108,7 @@
 - [ЦИТ Факт](https://github.com/studiofact/)
 - [Битрикс-эксперты](https://github.com/bitrix-expert)
 - [Nota Media](https://github.com/notamedia)
+- [WorkSolutions](https://github.com/worksolutions)
 
 ## <a id="confs">Конференции</a>
 - [Видео с партнерской конференции "1С-Битрикс" (Январь 2017)](http://conf.1c-bitrix.ru/winter2017/online/)
