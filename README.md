@@ -78,6 +78,7 @@
 - [1C-Bitrix Migrations](https://github.com/worksolutions/bitrix-module-migrations)
 - [Сниппеты стандартных компонент Bitrix](https://github.com/matiaspub/bxCompSnpt)
 - [Webpack](https://webpack.github.io/)
+- [bxApiDocs](https://github.com/matiaspub/bxApiDocs)
 
 ## <a id="php-libs">Библиотеки PHP</a>
 
