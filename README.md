@@ -22,6 +22,7 @@
 - [Блоги](#blogs)
 - [Статьи](#articles)
 - [Github, Bitbucket, etc](#repos)
+- [Конференции](#confs)
 - [Другое](#other)
 
 ## <a id="courses">Учебные курсы</a>
@@ -51,11 +52,14 @@
 - [Расширенные технологии и производительность](https://academy.1c-bitrix.ru/training/course/5864/)
 - [Маркетплейс Битрикс24](https://academy.1c-bitrix.ru/training/course/7365/)
 - [Ответы на вопросы по сертификации 1С-Битрикс](http://bx-cert.ru/certification/bitrix/all/)
+- [Маркетплейс Bitrix Framework](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=101)
+- [Многосайтовость](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=103)
 - [Быстрый старт разработчика](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=95)
 
 ## <a id="docs">Документация</a>
 - [Пользовательская документация](http://dev.1c-bitrix.ru/user_help/)
 - [Документация для разработчиков](http://dev.1c-bitrix.ru/api_help/)
+- [Документация по Javascript-библиотеке Bitrix Framework](https://dev.1c-bitrix.ru/api_help/js_lib/index.php)
 - [Документация для разработчиков по REST API](http://dev.1c-bitrix.ru/rest_help/)
 - [Документация по d7](http://dev.1c-bitrix.ru/api_d7/index.php)
 
@@ -93,16 +97,22 @@
 - [Битрикс-эксперты](http://bitrix.expert/)
 - [Блог компании Интерволга](http://www.intervolga.ru/blog/)
 - [База знаний Рабочих решений](https://github.com/worksolutions/knowbase)
+- [Блог "Документация, курсы и все остальное..." Роберта Басырова](https://dev.1c-bitrix.ru/community/blogs/Docs_and_other/)
 
 ## <a id="articles">Статьи</a>
 
 - [D7-аналоги любимых функций в 1С-Битрикс](http://www.intervolga.ru/blog/projects/d7-analogi-lyubimykh-funktsiy-v-1s-bitriks/)
+- [Изменение цен товара через обработчики в init.php](http://dev.1c-bitrix.ru/community/webdev/user/17090/blog/12425/)
 
 ## <a id="repos">Github, Bitbucket, etc</a>
 
 - [ЦИТ Факт](https://github.com/studiofact/)
 - [Битрикс-эксперты](https://github.com/bitrix-expert)
 - [Nota Media](https://github.com/notamedia)
+- [WorkSolutions](https://github.com/worksolutions)
+
+## <a id="confs">Конференции</a>
+- [Видео с партнерской конференции "1С-Битрикс" (Январь 2017)](http://conf.1c-bitrix.ru/winter2017/online/)
 
 ## <a id="other">Другое</a>
 - [База знаний](http://dev.1c-bitrix.ru/docs/knowledge_base/)
@@ -110,6 +120,8 @@
 - [Архив учебного видео](http://dev.1c-bitrix.ru/learning/video.php)
 - [Форумы](http://dev.1c-bitrix.ru/community/forums/)
 - [Блоги](http://dev.1c-bitrix.ru/community/webdev-blogs/)
+- [Группа социальной сети "Виртуальные машины Битрикс"](http://dev.1c-bitrix.ru/community/webdev/group/70/)
+- [Обсуждение на форуме "Виртуальная машина BitrixVM"](http://dev.1c-bitrix.ru/community/forums/forum32/)
 
 ## <a id="contributing">Как внести вклад</a>
 
