@@ -3,7 +3,7 @@
 [![Join the chat at https://gitter.im/awesomebitrix/awesome-bitrix](https://badges.gitter.im/awesomebitrix/awesome-bitrix.svg)](https://gitter.im/awesomebitrix/awesome-bitrix?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
-Редактируемый список удивительно потрясающих ресурсов и статей, компонент и модулей, посвященных Битриксу.
+Полезные статьи о настройке и разработке 1C-Bitrix и Bitrix 24, а также компоненты и модули, php и javascript библиотеки.
 
 - [Чат](https://gitter.im/awesomebitrix/awesome-bitrix)
 - [Как внести вклад](#contributing)
