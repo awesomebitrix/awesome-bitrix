@@ -61,6 +61,7 @@
 - [Пользовательская документация](http://dev.1c-bitrix.ru/user_help/)
 - [Документация для разработчиков](http://dev.1c-bitrix.ru/api_help/)
 - [Документация по Javascript-библиотеке Bitrix Framework](https://dev.1c-bitrix.ru/api_help/js_lib/index.php)
+- [Документация по AJAX библиотекe Bitrix Framework](https://yunaliev.ru/file/bitrix_ajax_api.pdf)
 - [Документация для разработчиков по REST API](http://dev.1c-bitrix.ru/rest_help/)
 - [Документация по d7](http://dev.1c-bitrix.ru/api_d7/index.php)
 
