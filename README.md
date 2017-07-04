@@ -77,6 +77,7 @@
 - [PJAX для 1C-Bitrix](https://github.com/studiofact/citfact.pjax)
 - [Bitrix24 PHP SDK](https://github.com/mesilov/bitrix24-php-sdk)
 - [1C-Bitrix Migrations](https://github.com/worksolutions/bitrix-module-migrations)
+- [Модуль миграций 2.0](https://github.com/worksolutions/bitrix-reduce-migrations)
 - [Сниппеты стандартных компонент Bitrix](https://github.com/matiaspub/bxCompSnpt)
 - [Webpack](https://webpack.github.io/)
 - [bxApiDocs](https://github.com/matiaspub/bxApiDocs)
