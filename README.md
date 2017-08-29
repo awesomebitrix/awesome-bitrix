@@ -21,10 +21,10 @@
 - [Дистрибутивы](#dists)
 - [Блоги](#blogs)
 - [Статьи](#articles)
+  - [Интеграция с 1С:Предприятие](#articles-1c-enterprise)
 - [Github, Bitbucket, etc](#repos)
 - [Конференции](#confs)
 - [Другое](#other)
-- [1C+bitrix](#1c1cbitrix)
 
 ## <a id="courses">Учебные курсы</a>
 - [Учебные онлайн-курсы](http://dev.1c-bitrix.ru/learning/index.php#tab-online-link)
@@ -106,6 +106,8 @@
 
 - [D7-аналоги любимых функций в 1С-Битрикс](http://www.intervolga.ru/blog/projects/d7-analogi-lyubimykh-funktsiy-v-1s-bitriks/)
 - [Изменение цен товара через обработчики в init.php](http://dev.1c-bitrix.ru/community/webdev/user/17090/blog/12425/)
+#### <a id="#articles-1c-enterprise">Интеграция с 1С:Предприятие</a>
+- [1C сервер на Linux и обмен картинками с сайтом на 1C bitrix](https://medium.com/abuga/1c-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-%D0%BD%D0%B0-linux-%D0%B8-%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%D0%BC%D0%B8-%D1%81-%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%BC-%D0%BD%D0%B0-1c-bitrix-760cbf8f9b99)
 
 ## <a id="repos">Github, Bitbucket, etc</a>
 
@@ -125,9 +127,6 @@
 - [Блоги](http://dev.1c-bitrix.ru/community/webdev-blogs/)
 - [Группа социальной сети "Виртуальные машины Битрикс"](http://dev.1c-bitrix.ru/community/webdev/group/70/)
 - [Обсуждение на форуме "Виртуальная машина BitrixVM"](http://dev.1c-bitrix.ru/community/forums/forum32/)
-
-## <a id="1c1cbitrix">1C+bitrix</a>
-- [1C сервер на Linux и обмен картинками с сайтом на 1C bitrix](https://medium.com/abuga/1c-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-%D0%BD%D0%B0-linux-%D0%B8-%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%D0%BC%D0%B8-%D1%81-%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%BC-%D0%BD%D0%B0-1c-bitrix-760cbf8f9b99)
 
 ## <a id="contributing">Как внести вклад</a>
 
