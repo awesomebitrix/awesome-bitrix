@@ -61,9 +61,9 @@
 ## <a id="docs">Документация</a>
 - [Пользовательская документация](http://dev.1c-bitrix.ru/user_help/)
 - [Документация для разработчиков](http://dev.1c-bitrix.ru/api_help/)
-- [Документация по Javascript-библиотеке Bitrix Framework](https://dev.1c-bitrix.ru/api_help/js_lib/index.php)
+- [Документация по Javascript-библиотеке Bitrix Framework](https://dev.1c-bitrix.ru/api_help/js_lib/)
 - [Документация для разработчиков по REST API](http://dev.1c-bitrix.ru/rest_help/)
-- [Документация по d7](http://dev.1c-bitrix.ru/api_d7/index.php)
+- [Документация по d7](http://dev.1c-bitrix.ru/api_d7/)
 
 ## <a id="tools">Инструменты</a>
 - [1C-Битрикс: Виртуальная машина](http://www.1c-bitrix.ru/products/vmbitrix/)
@@ -117,7 +117,16 @@
 - [WorkSolutions](https://github.com/worksolutions)
 
 ## <a id="confs">Конференции</a>
-- [Видео с партнерской конференции "1С-Битрикс" (Январь 2017)](http://conf.1c-bitrix.ru/winter2017/online/)
+- [Видео с партнерской конференции "1С-Битрикс" (Лето 2013)](https://conf.1c-bitrix.ru/summer2013/about/media/)
+- [Видео с партнерской конференции "1С-Битрикс" (Зима 2013)](https://conf.1c-bitrix.ru/winter2013/about/media/)
+- [Видео с партнерской конференции "1С-Битрикс" (Лето 2014)](https://conf.1c-bitrix.ru/summer2014/agenda/broadcast/)
+- [Видео с партнерской конференции "1С-Битрикс" (Зима 2014)](https://conf.1c-bitrix.ru/winter2014/agenda/broadcast/)
+- [Видео с партнерской конференции "1С-Битрикс" (Лето 2015)](https://conf.1c-bitrix.ru/summer2015/online/)
+- [Видео с партнерской конференции "1С-Битрикс" (Зима 2015)](https://conf.1c-bitrix.ru/winter2015/online/)
+- [Видео с партнерской конференции "1С-Битрикс" (Лето 2016)](https://conf.1c-bitrix.ru/winter2016/online/)
+- [Видео с партнерской конференции "1С-Битрикс" (Зима 2016)](https://conf.1c-bitrix.ru/winter2016/online/)
+- [Видео с партнерской конференции "1С-Битрикс" (Лето 2017)](https://conf.1c-bitrix.ru/winter2017/online/)
+- [Видео с партнерской конференции "1С-Битрикс" (Зима 2017)](https://conf.1c-bitrix.ru/winter2017/online/)
 
 ## <a id="other">Другое</a>
 - [База знаний](http://dev.1c-bitrix.ru/docs/knowledge_base/)
