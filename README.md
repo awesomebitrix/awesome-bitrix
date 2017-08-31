@@ -103,6 +103,7 @@
 
 - [D7-аналоги любимых функций в 1С-Битрикс](http://www.intervolga.ru/blog/projects/d7-analogi-lyubimykh-funktsiy-v-1s-bitriks/)
 - [Изменение цен товара через обработчики в init.php](http://dev.1c-bitrix.ru/community/webdev/user/17090/blog/12425/)
+- [Настройка MySQL 5.7 на Ubuntu 16.04 под Bitrix](http://blog.ispsystem.info/2016/10/mysql-57-ubuntu-1604-bitrix.html)
 
 ## <a id="repos">Github, Bitbucket, etc</a>
 
