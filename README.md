@@ -43,18 +43,19 @@
 - [Пользователь коробочной версии Битрикса24](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=71)
 - [Администратор сервиса Битрикс24 (коробочная версия)](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=48)
 - [Внедрение корпоративного портала](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=53)
+- [Маркетплейс Битрикс24](https://academy.1c-bitrix.ru/training/course/7365/)
 
 #### Тематические курсы
 - [Технология Композитный сайт](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=39)
 - [Многосайтовость](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=103)
 - [Разработка и эксплуатация высоконагруженных проектов](https://dev.1c-bitrix.ru/learning/course/?COURSE_ID=38)
 - [Маркетплейс Bitrix Framework](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=101)
-- [Маркетплейс Битрикс24](https://academy.1c-bitrix.ru/training/course/7365/)
 - [Бизнес-процессы](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=57)
 - [Виртуальная машина BitrixVM](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=37)
 - [BitrixMobile - создание кроссплатформенных мобильных приложений](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=80)
 - [Бот платформа Битрикс24](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=93)
 - [Магазин до конвертации (до версии 15.0)](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=83)
+- [Бизнес-процессы в Битрикс24. Интенсив](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=97)
 
 #### Курсы Академии 1C-Битрикс
 - [Интеграция дизайна и настройка платформы](http://academy.1c-bitrix.ru/education/?COURSE_ID=65)
@@ -154,7 +155,6 @@
 - [Группа социальной сети "Виртуальные машины Битрикс"](http://dev.1c-bitrix.ru/community/webdev/group/70/)
 - [Обсуждение на форуме "Виртуальная машина BitrixVM"](http://dev.1c-bitrix.ru/community/forums/forum32/)
 - [Ответы на вопросы по сертификации 1С-Битрикс](http://bx-cert.ru/certification/bitrix/all/)
-- [Бизнес-процессы в Битрикс24. Интенсив](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=97)
 
 ## <a id="contributing">Как внести вклад</a>
 
