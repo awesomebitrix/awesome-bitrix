@@ -27,36 +27,53 @@
 - [Другое](#other)
 
 ## <a id="courses">Учебные курсы</a>
-- [Учебные онлайн-курсы](http://dev.1c-bitrix.ru/learning/index.php#tab-online-link)
-- [Контент-менеджер](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34)
-- [Администратор. Базовый](http://dev.1c-bitrix.ru/learning/course/?COURSE_ID=35)
-- [Администратор. Модули](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=41)
-- [Администратор. Бизнес](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42)
-- [Курс для хостеров](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=32)
-- [Технология Композитный сайт](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=39)
-- [Виртуальная машина BitrixVM](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=37)
-- [BitrixMobile - создание кроссплатформенных мобильных приложений](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=80)
-- [Магазин до конвертации (до версии 15.0)](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=83)
-- [D7. Разработка собственного модуля](http://academy.1c-bitrix.ru/education/index.php?COURSE_ID=91&INDEX=Y)
-- [Разработка на D7. Введение](http://academy.1c-bitrix.ru/education/index.php?COURSE_ID=85&INDEX=Y)
-- [Разработка и эксплуатация высоконагруженных проектов](https://dev.1c-bitrix.ru/learning/course/?COURSE_ID=38)
-- [Основные технологии и расширение типовых возможностей системы](https://academy.1c-bitrix.ru/training/course/5863/)
-- [Разработчик Bitrix Framework](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43)
-- [Интеграция дизайна и настройка платформы](http://academy.1c-bitrix.ru/education/?COURSE_ID=65)
-- [Расширенные технологии и производительность](https://academy.1c-bitrix.ru/training/course/5864/)
-- [Ответы на вопросы по сертификации 1С-Битрикс](http://bx-cert.ru/certification/bitrix/all/)
-- [Маркетплейс Bitrix Framework](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=101)
-- [Многосайтовость](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=103)
-- [Быстрый старт разработчика](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=95)
+
+В разделе содержатся, сгруппированные по тематическим разделам, [официальные курсы по платформе Битрикс](http://dev.1c-bitrix.ru/learning/index.php#tab-online-link), включая тематические и специальные курсы. Курсы, успешное прохождение награждается сертификатом, отмечены :star:
+
+#### Битрикс: Управление сайтом
+- [Контент-менеджер](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34) :star:
+- [Администратор. Базовый](http://dev.1c-bitrix.ru/learning/course/?COURSE_ID=35) :star:
+- [Администратор. Модули](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=41) :star:
+- [Администратор. Бизнес](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42) :star:
+- [Разработчик Bitrix Framework](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43) :star:
+- [Курс для хостеров](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=32) :star:
+
 #### Битрикс24
 - [Пользователь сервиса Битрикс24](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=52)
 - [Пользователь коробочной версии Битрикса24](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=71)
 - [Администратор сервиса Битрикс24 (коробочная версия)](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=48)
 - [Внедрение корпоративного портала](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=53)
-- [Бизнес-процессы](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=57)
-- [Бизнес-процессы в Битрикс24. Интенсив](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=97)
 - [Маркетплейс Битрикс24](https://academy.1c-bitrix.ru/training/course/7365/)
+
+#### Тематические курсы
+- [Технология Композитный сайт](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=39)
+- [Многосайтовость](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=103)
+- [Разработка и эксплуатация высоконагруженных проектов](https://dev.1c-bitrix.ru/learning/course/?COURSE_ID=38)
+- [Маркетплейс Bitrix Framework](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=101)
+- [Бизнес-процессы](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=57)
+- [Виртуальная машина BitrixVM](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=37)
+- [BitrixMobile - создание кроссплатформенных мобильных приложений](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=80)
 - [Бот платформа Битрикс24](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=93)
+- [Магазин до конвертации (до версии 15.0)](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=83)
+- [Бизнес-процессы в Битрикс24. Интенсив](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=97)
+
+#### Курсы Академии 1C-Битрикс
+- [Интеграция дизайна и настройка платформы](http://academy.1c-bitrix.ru/education/?COURSE_ID=65)
+- [Основные технологии и расширение типовых возможностей системы](https://academy.1c-bitrix.ru/education/?COURSE_ID=66&INDEX=Y)
+- [Расширенные технологии и производительность](https://academy.1c-bitrix.ru/education/?COURSE_ID=67&INDEX=Y)
+- [Разработка на D7. Введение](http://academy.1c-bitrix.ru/education/index.php?COURSE_ID=85&INDEX=Y)
+- [D7. Разработка собственного модуля](http://academy.1c-bitrix.ru/education/index.php?COURSE_ID=91&INDEX=Y)
+- [Быстрый старт разработчика](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=95)
+
+#### Устаревшие курсы
+
+- [Интеграция](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=4&INDEX=Y)
+- [Установка и настройка](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=8&INDEX=Y)
+- [Элементы управления. Обучающий курс](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=1&INDEX=Y)
+- [Администрирование портала](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=23&INDEX=Y)
+- [Конфигурирование веб-систем для оптимальной работы](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=3&INDEX=Y)
+- [Интерфейс до версии 9.5](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=44&INDEX=Y)
+- [Пользователь корпоративного портала (дизайн Lite)](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=45&INDEX=Y)
 
 ## <a id="docs">Документация</a>
 - [Пользовательская документация](http://dev.1c-bitrix.ru/user_help/)
@@ -137,6 +154,7 @@
 - [Блоги](http://dev.1c-bitrix.ru/community/webdev-blogs/)
 - [Группа социальной сети "Виртуальные машины Битрикс"](http://dev.1c-bitrix.ru/community/webdev/group/70/)
 - [Обсуждение на форуме "Виртуальная машина BitrixVM"](http://dev.1c-bitrix.ru/community/forums/forum32/)
+- [Ответы на вопросы по сертификации 1С-Битрикс](http://bx-cert.ru/certification/bitrix/all/)
 
 ## <a id="contributing">Как внести вклад</a>
 
