@@ -47,7 +47,7 @@
 
 #### Тематические курсы
 - [Технология Композитный сайт](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=39) :star:
-- [Многосайтовость](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=103) 
+- [Многосайтовость](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=103)
 - [Разработка и эксплуатация высоконагруженных проектов](https://dev.1c-bitrix.ru/learning/course/?COURSE_ID=38)
 - [Маркетплейс Bitrix Framework](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=101)
 - [Бизнес-процессы](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=57) :star:
@@ -87,6 +87,7 @@
 - [Скрипт BitrixSetup для удаленной установки на хостинг](http://www.1c-bitrix.ru/download/scripts/bitrixsetup.php)
 - [1C-Битрикс: Веб-окружение для Linux](http://repos.1c-bitrix.ru/yum/bitrix-env.sh)
 - [1C-Битрикс: Веб-окружение для Windows](http://www.1c-bitrix.ru/download/bitrixenv/bitrix_env.exe)
+- [BitrixDock: Готовое Docker окружение](https://github.com/bitrixdock/bitrixdock)
 - [Скрипт тестирования конфигурации сервера](http://www.1c-bitrix.ru/download/files/scripts/bitrix_server_test.php)
 - [Скрипт восстановления из резервной копии](http://www.1c-bitrix.ru/download/scripts/restore.php)
 - [Console Jedi](https://github.com/notamedia/console-jedi)
