@@ -128,12 +128,23 @@
 #### <a id="articles-1c-enterprise">Интеграция с 1С:Предприятие</a>
 - [1C сервер на Linux и обмен картинками с сайтом на 1C bitrix](https://medium.com/abuga/1c-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-%D0%BD%D0%B0-linux-%D0%B8-%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%D0%BC%D0%B8-%D1%81-%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%BC-%D0%BD%D0%B0-1c-bitrix-760cbf8f9b99)
 
-## <a id="repos">Github, Bitbucket, etc</a>
+## <a id="repos-organization">Github, Bitbucket, etc</a>
+
+### Органзиации
 
 - [ЦИТ Факт](https://github.com/studiofact/)
 - [Битрикс-эксперты](https://github.com/bitrix-expert)
 - [Nota Media](https://github.com/notamedia)
 - [WorkSolutions](https://github.com/worksolutions)
+
+### Репозитории
+- [Базовые битриксовые компоненты (bbc)](https://github.com/bitrix-expert/bbc)
+- [Модуль ББК](https://github.com/bitrix-expert/bbc-module)
+- [i18n in Bitrix CMS](https://github.com/notamedia/bitrix-i18n)
+- [bitrix-console-tool](https://github.com/Mediahero/bitrix-console-tool)
+- [Console Jedi](https://github.com/notamedia/console-jedi)
+- [DigitalWand: Admin Helper](https://github.com/DigitalWand/digitalwand.admin_helper/)
+
 
 ## <a id="confs">Конференции</a>
 - [Видео с партнерской конференции "1С-Битрикс" (Лето 2013)](https://conf.1c-bitrix.ru/summer2013/about/media/)
