@@ -28,29 +28,29 @@
 
 ## <a id="courses">Учебные курсы</a>
 
-В разделе содержатся, сгруппированные по тематическим разделам, [официальные курсы по платформе Битрикс](http://dev.1c-bitrix.ru/learning/index.php#tab-online-link), включая тематические и специальные курсы. Курсы с последющей сертификацией отмечены :star:
+В разделе содержатся, сгруппированные по тематическим разделам, [официальные курсы по платформе Битрикс](http://dev.1c-bitrix.ru/learning/index.php#tab-online-link), включая тематические и специальные курсы. Курсы с сертификацией отмечены :star:
 
 #### Битрикс: Управление сайтом
-- [Контент-менеджер](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34) :star:
-- [Администратор. Базовый](http://dev.1c-bitrix.ru/learning/course/?COURSE_ID=35) :star:
-- [Администратор. Модули](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=41) :star:
-- [Администратор. Бизнес](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42) :star:
-- [Разработчик Bitrix Framework](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43) :star:
-- [Курс для хостеров](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=32) :star:
+- :star: [Контент-менеджер](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34)
+- :star: [Администратор. Базовый](http://dev.1c-bitrix.ru/learning/course/?COURSE_ID=35)
+- :star: [Администратор. Модули](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=41)
+- :star: [Администратор. Бизнес](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42)
+- :star: [Разработчик Bitrix Framework](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43)
+- :star: [Курс для хостеров](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=32)
 
 #### Битрикс24
-- [Пользователь сервиса Битрикс24](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=52) :star:
-- [Пользователь коробочной версии Битрикса24](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=71) :star:
-- [Администратор сервиса Битрикс24 (коробочная версия)](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=48) :star:
+- :star: [Пользователь сервиса Битрикс24](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=52)
+- :star: [Пользователь коробочной версии Битрикса24](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=71)
+- :star: [Администратор сервиса Битрикс24 (коробочная версия)](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=48) 
 - [Внедрение корпоративного портала](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=53)
 - [Маркетплейс Битрикс24](https://academy.1c-bitrix.ru/training/course/7365/)
 
 #### Тематические курсы
-- [Технология Композитный сайт](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=39) :star:
+- :star: [Технология Композитный сайт](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=39)
 - [Многосайтовость](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=103) 
 - [Разработка и эксплуатация высоконагруженных проектов](https://dev.1c-bitrix.ru/learning/course/?COURSE_ID=38)
 - [Маркетплейс Bitrix Framework](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=101)
-- [Бизнес-процессы](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=57) :star:
+- :star: [Бизнес-процессы](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=57) 
 - [Виртуальная машина BitrixVM](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=37)
 - [BitrixMobile - создание кроссплатформенных мобильных приложений](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=80)
 - [Бот платформа Битрикс24](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=93)
