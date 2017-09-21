@@ -83,7 +83,7 @@
 - [Документация по d7](http://dev.1c-bitrix.ru/api_d7/)
 
 ## <a id="tools">Инструменты</a>
-В разделе собраны инструменты для решения определенных задач. Это могут быть вспомагательные инструменты для решения локальной проблемы, неоформленные куски кода из документации.
+В разделе собраны инструменты для решения определенных задач. Это могут быть вспомогательные инструменты для решения локальной проблемы, неоформленные куски кода из документации.
 Важно! Инструменты рассчитаны на определенный уровень знаний продукта и/или технологии. Не стоит применять их без необходимости и только на свой страх и риск.
 
 - [1C-Битрикс: Виртуальная машина](http://www.1c-bitrix.ru/products/vmbitrix/)
@@ -95,12 +95,10 @@
 - [bxApiDocs](https://github.com/matiaspub/bxApiDocs)
 
 ## <a id="php-libs">Библиотеки PHP</a>
-
 - [Контейнер для внедрения зависимостей](http://container.thephpleague.com/)
-- [Webpack](https://webpack.github.io/)
 
 ## <a id="js-libs">Библиотеки JavaScript</a>
-
+- [Webpack](https://webpack.github.io/)
 - [Vue.js](https://vuejs.org/)
 
 ## <a id="dists">Дистрибутивы</a>
@@ -108,7 +106,6 @@
 - [1C-Битрикс24](https://www.1c-bitrix.ru/download/intranet.php)
 
 ## <a id="blogs">Блоги</a>
-
 - [Блог компании 1С-Битрикс на Хабрахабр](https://habrahabr.ru/company/bitrix/)
 - [Вики ЦИТ Факт](https://github.com/studiofact/wiki-bitrix/wiki)
 - [Битрикс-эксперты](http://bitrix.expert/)
@@ -117,7 +114,6 @@
 - [Блог "Документация, курсы и все остальное..." Роберта Басырова](https://dev.1c-bitrix.ru/community/blogs/Docs_and_other/)
 
 ## <a id="articles">Статьи</a>
-
 - [D7-аналоги любимых функций в 1С-Битрикс](http://www.intervolga.ru/blog/projects/d7-analogi-lyubimykh-funktsiy-v-1s-bitriks/)
 - [Изменение цен товара через обработчики в init.php](http://dev.1c-bitrix.ru/community/webdev/user/17090/blog/12425/)
 
@@ -126,27 +122,28 @@
 
 ## <a id="repos-organization">Github, Bitbucket, etc</a>
 
-### Органзиации
+### Организации
 
 - [ЦИТ Факт](https://github.com/studiofact/)
 - [Битрикс-эксперты](https://github.com/bitrix-expert)
-- [Nota Media](https://github.com/notamedia)
-- [WorkSolutions](https://github.com/worksolutions)
+- [Notamedia](https://github.com/notamedia)
+- [Рабочие решения](https://github.com/worksolutions)
 
 ### Репозитории
-- [Базовые битриксовые компоненты (bbc)](https://github.com/bitrix-expert/bbc)
+- [Базовые битриксовые компоненты (ББК)](https://github.com/bitrix-expert/bbc)
 - [Модуль ББК](https://github.com/bitrix-expert/bbc-module)
 - [i18n in Bitrix CMS](https://github.com/notamedia/bitrix-i18n)
-- [bitrix-console-tool](https://github.com/Mediahero/bitrix-console-tool)
+- [Bitrix CMF Console Tool](https://github.com/Mediahero/bitrix-console-tool)
 - [Console Jedi](https://github.com/notamedia/console-jedi)
 - [DigitalWand: Admin Helper](https://github.com/DigitalWand/digitalwand.admin_helper/)
 - [Monolog adapter for Bitrix CMS](https://github.com/bitrix-expert/monolog-adapter)
-- [Генератор форм на основе инфоблоков или highload инфоблоков для 1C-Bitrix](https://github.com/studiofact/citfact.form)
+- [Генератор форм для 1C-Bitrix](https://github.com/studiofact/citfact.form)
 - [PJAX для 1C-Bitrix](https://github.com/studiofact/citfact.pjax)
 - [Bitrix24 PHP SDK](https://github.com/mesilov/bitrix24-php-sdk)
 - [1C-Bitrix Migrations](https://github.com/worksolutions/bitrix-module-migrations)
 - [1C-Bitrix Reduce Migrations](https://github.com/worksolutions/bitrix-reduce-migrations)
-
+- [rzn.library](https://github.com/AndyDune/rzn.library)
+- [bitrix-typograf](https://github.com/askew-/bitrix-typograf)
 
 ## <a id="confs">Конференции</a>
 - [Видео с партнерской конференции "1С-Битрикс" (Лето 2013)](https://conf.1c-bitrix.ru/summer2013/about/media/)
