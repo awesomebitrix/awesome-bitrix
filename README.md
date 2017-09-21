@@ -83,27 +83,21 @@
 - [Документация по d7](http://dev.1c-bitrix.ru/api_d7/)
 
 ## <a id="tools">Инструменты</a>
+В разделе собраны инструменты для решения определенных задач. Это могут быть вспомагательные инструменты для решения локальной проблемы, неоформленные куски кода из документации.
+Важно! Инструменты рассчитаны на определенный уровень знаний продукта и/или технологии. Не стоит применять их без необходимости и только на свой страх и риск.
+
 - [1C-Битрикс: Виртуальная машина](http://www.1c-bitrix.ru/products/vmbitrix/)
-- [Скрипт BitrixSetup для удаленной установки на хостинг](http://www.1c-bitrix.ru/download/scripts/bitrixsetup.php)
-- [1C-Битрикс: Веб-окружение для Linux](http://repos.1c-bitrix.ru/yum/bitrix-env.sh)
-- [1C-Битрикс: Веб-окружение для Windows](http://www.1c-bitrix.ru/download/bitrixenv/bitrix_env.exe)
-- [BitrixDock: Готовое Docker окружение](https://github.com/bitrixdock/bitrixdock)
 - [Скрипт тестирования конфигурации сервера](http://www.1c-bitrix.ru/download/files/scripts/bitrix_server_test.php)
+- [Скрипт BitrixSetup для удаленной установки на хостинг](http://www.1c-bitrix.ru/download/scripts/bitrixsetup.php)
 - [Скрипт восстановления из резервной копии](http://www.1c-bitrix.ru/download/scripts/restore.php)
-- [Console Jedi](https://github.com/notamedia/console-jedi)
-- [Monolog adapter for Bitrix CMS](https://github.com/bitrix-expert/monolog-adapter)
-- [Генератор форм на основе инфоблоков или highload инфоблоков для 1C-Bitrix](https://github.com/studiofact/citfact.form)
-- [PJAX для 1C-Bitrix](https://github.com/studiofact/citfact.pjax)
-- [Bitrix24 PHP SDK](https://github.com/mesilov/bitrix24-php-sdk)
-- [1C-Bitrix Migrations](https://github.com/worksolutions/bitrix-module-migrations)
-- [1C-Bitrix Reduce Migrations](https://github.com/worksolutions/bitrix-reduce-migrations)
+- [BitrixDock: Готовое Docker окружение](https://github.com/bitrixdock/bitrixdock)
 - [Сниппеты стандартных компонент Bitrix](https://github.com/matiaspub/bxCompSnpt)
-- [Webpack](https://webpack.github.io/)
 - [bxApiDocs](https://github.com/matiaspub/bxApiDocs)
 
 ## <a id="php-libs">Библиотеки PHP</a>
 
 - [Контейнер для внедрения зависимостей](http://container.thephpleague.com/)
+- [Webpack](https://webpack.github.io/)
 
 ## <a id="js-libs">Библиотеки JavaScript</a>
 
@@ -111,6 +105,7 @@
 
 ## <a id="dists">Дистрибутивы</a>
 - [1C-Битрикс: Управление сайтом](http://www.1c-bitrix.ru/download/cms.php)
+- [1C-Битрикс24](https://www.1c-bitrix.ru/download/intranet.php)
 
 ## <a id="blogs">Блоги</a>
 
@@ -125,6 +120,7 @@
 
 - [D7-аналоги любимых функций в 1С-Битрикс](http://www.intervolga.ru/blog/projects/d7-analogi-lyubimykh-funktsiy-v-1s-bitriks/)
 - [Изменение цен товара через обработчики в init.php](http://dev.1c-bitrix.ru/community/webdev/user/17090/blog/12425/)
+
 #### <a id="articles-1c-enterprise">Интеграция с 1С:Предприятие</a>
 - [1C сервер на Linux и обмен картинками с сайтом на 1C bitrix](https://medium.com/abuga/1c-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-%D0%BD%D0%B0-linux-%D0%B8-%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%D0%BC%D0%B8-%D1%81-%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%BC-%D0%BD%D0%B0-1c-bitrix-760cbf8f9b99)
 
@@ -144,6 +140,12 @@
 - [bitrix-console-tool](https://github.com/Mediahero/bitrix-console-tool)
 - [Console Jedi](https://github.com/notamedia/console-jedi)
 - [DigitalWand: Admin Helper](https://github.com/DigitalWand/digitalwand.admin_helper/)
+- [Monolog adapter for Bitrix CMS](https://github.com/bitrix-expert/monolog-adapter)
+- [Генератор форм на основе инфоблоков или highload инфоблоков для 1C-Bitrix](https://github.com/studiofact/citfact.form)
+- [PJAX для 1C-Bitrix](https://github.com/studiofact/citfact.pjax)
+- [Bitrix24 PHP SDK](https://github.com/mesilov/bitrix24-php-sdk)
+- [1C-Bitrix Migrations](https://github.com/worksolutions/bitrix-module-migrations)
+- [1C-Bitrix Reduce Migrations](https://github.com/worksolutions/bitrix-reduce-migrations)
 
 
 ## <a id="confs">Конференции</a>
