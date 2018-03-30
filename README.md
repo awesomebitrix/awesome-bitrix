@@ -56,6 +56,7 @@
 - [Бот платформа Битрикс24](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=93)
 - [Магазин до конвертации (до версии 15.0)](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=83)
 - [Бизнес-процессы в Битрикс24. Интенсив](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=97)
+- :star: [Интеграция с 1С](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=131)
 
 #### Курсы Академии 1C-Битрикс
 - [Интеграция дизайна и настройка платформы](http://academy.1c-bitrix.ru/education/?COURSE_ID=65)
