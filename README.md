@@ -44,6 +44,7 @@
 - :star: [Администратор сервиса Битрикс24 (коробочная версия)](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=48) 
 - [Внедрение корпоративного портала](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=53)
 - [Маркетплейс Битрикс24](https://academy.1c-bitrix.ru/training/course/7365/)
+- [Приложения Битрикс24](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=99)
 
 #### Тематические курсы
 - :star: [Технология Композитный сайт](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=39)
