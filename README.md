@@ -57,6 +57,7 @@
 - [Магазин до конвертации (до версии 15.0)](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=83)
 - [Бизнес-процессы в Битрикс24. Интенсив](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=97)
 - :star: [Интеграция с 1С](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=131)
+- :star: [Установка и настройка](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=135)
 
 #### Курсы Академии 1C-Битрикс
 - [Интеграция дизайна и настройка платформы](http://academy.1c-bitrix.ru/education/?COURSE_ID=65)
@@ -117,6 +118,7 @@
 ## <a id="articles">Статьи</a>
 - [D7-аналоги любимых функций в 1С-Битрикс](http://www.intervolga.ru/blog/projects/d7-analogi-lyubimykh-funktsiy-v-1s-bitriks/)
 - [Изменение цен товара через обработчики в init.php](http://dev.1c-bitrix.ru/community/webdev/user/17090/blog/12425/)
+- [Настройка MySQL 5.7 на Ubuntu 16.04 под Bitrix](http://blog.ispsystem.info/2016/10/mysql-57-ubuntu-1604-bitrix.html)
 
 #### <a id="articles-1c-enterprise">Интеграция с 1С:Предприятие</a>
 - [1C сервер на Linux и обмен картинками с сайтом на 1C bitrix](https://medium.com/abuga/1c-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-%D0%BD%D0%B0-linux-%D0%B8-%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0%D0%BC%D0%B8-%D1%81-%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%BC-%D0%BD%D0%B0-1c-bitrix-760cbf8f9b99)
