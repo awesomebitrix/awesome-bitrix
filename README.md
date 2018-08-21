@@ -145,6 +145,7 @@
 - [Генератор форм для 1C-Bitrix](https://github.com/studiofact/citfact.form)
 - [PJAX для 1C-Bitrix](https://github.com/studiofact/citfact.pjax)
 - [Bitrix24 PHP SDK](https://github.com/mesilov/bitrix24-php-sdk)
+- [Bitrix24 Go SDK](https://github.com/ikarpovich/go-bitrix)
 - [1C-Bitrix Migrations](https://github.com/worksolutions/bitrix-module-migrations)
 - [1C-Bitrix Reduce Migrations](https://github.com/worksolutions/bitrix-reduce-migrations)
 - [rzn.library](https://github.com/AndyDune/rzn.library)
