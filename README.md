@@ -95,6 +95,7 @@
 - [Скрипт BitrixSetup для удаленной установки на хостинг](http://www.1c-bitrix.ru/download/scripts/bitrixsetup.php)
 - [Скрипт восстановления из резервной копии](http://www.1c-bitrix.ru/download/scripts/restore.php)
 - [BitrixDock: Готовое Docker окружение](https://github.com/bitrixdock/bitrixdock)
+- [Dockerized Push Server](https://github.com/ikarpovich/bitrix-push-server)
 - [Сниппеты стандартных компонент Bitrix](https://github.com/matiaspub/bxCompSnpt)
 - [bxApiDocs](https://github.com/matiaspub/bxApiDocs)
 
