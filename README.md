@@ -171,6 +171,7 @@
 - [Блоги](http://dev.1c-bitrix.ru/community/webdev-blogs/)
 - [Группа социальной сети "Виртуальные машины Битрикс"](http://dev.1c-bitrix.ru/community/webdev/group/70/)
 - [Обсуждение на форуме "Виртуальная машина BitrixVM"](http://dev.1c-bitrix.ru/community/forums/forum32/)
+- [Обсуждение "Bitrix Docker, использование Bitrix в контейнерах"](https://dev.1c-bitrix.ru/support/forum/forum32/topic92319/)
 - [Ответы на вопросы по сертификации 1С-Битрикс](http://bx-cert.ru/certification/bitrix/all/)
 
 ## <a id="contributing">Как внести вклад</a>
