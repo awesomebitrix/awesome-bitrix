@@ -41,17 +41,17 @@
 #### Битрикс24
 - :star: [Пользователь сервиса Битрикс24](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=52)
 - :star: [Пользователь коробочной версии Битрикса24](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=71)
-- :star: [Администратор сервиса Битрикс24 (коробочная версия)](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=48) 
+- :star: [Администратор сервиса Битрикс24 (коробочная версия)](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=48)
 - [Внедрение корпоративного портала](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=53)
 - [Маркетплейс Битрикс24](https://academy.1c-bitrix.ru/training/course/7365/)
 - [Приложения Битрикс24](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=99)
 
 #### Тематические курсы
 - :star: [Технология Композитный сайт](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=39)
-- [Многосайтовость](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=103) 
+- [Многосайтовость](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=103)
 - [Разработка и эксплуатация высоконагруженных проектов](https://dev.1c-bitrix.ru/learning/course/?COURSE_ID=38)
 - [Маркетплейс Bitrix Framework](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=101)
-- :star: [Бизнес-процессы](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=57) 
+- :star: [Бизнес-процессы](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=57)
 - [Виртуальная машина BitrixVM](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=37)
 - [BitrixMobile - создание кроссплатформенных мобильных приложений](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=80)
 - [Бот платформа Битрикс24](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=93)
@@ -102,6 +102,7 @@
 - [Контейнер для внедрения зависимостей](http://container.thephpleague.com/)
 
 ## <a id="js-libs">Библиотеки JavaScript</a>
+- [Bitrix24 REST API client](https://github.com/2BAD/bitrix) (TypeScript)
 - [Webpack](https://webpack.github.io/)
 - [Vue.js](https://vuejs.org/)
 
