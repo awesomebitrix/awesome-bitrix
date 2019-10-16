@@ -98,6 +98,7 @@
 - [Dockerized Push Server](https://github.com/ikarpovich/bitrix-push-server)
 - [Сниппеты стандартных компонент Bitrix](https://github.com/matiaspub/bxCompSnpt)
 - [bxApiDocs](https://github.com/matiaspub/bxApiDocs)
+- [Весь код Битрикса bxapi](https://bxapi.ru/)
 
 ## <a id="php-libs">Библиотеки PHP</a>
 - [Контейнер для внедрения зависимостей](http://container.thephpleague.com/)
