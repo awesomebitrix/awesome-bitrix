@@ -101,10 +101,15 @@
 - [Весь код Битрикса bxapi](https://bxapi.ru/)
 
 ## <a id="php-libs">Библиотеки PHP</a>
+В разделе размещены полезные для Bitrix-разработчика PHP-библиотеки не имеющие явной
+специализализации на Bitrix Framework.
+
 - [Контейнер для внедрения зависимостей](http://container.thephpleague.com/)
 
 ## <a id="js-libs">Библиотеки JavaScript</a>
-- [Bitrix24 REST API client](https://github.com/2BAD/bitrix) (TypeScript)
+В разделе размещены полезные для Bitrix-разработчика JavaScript-библиотеки не имеющие явной
+специализализации на Bitrix Framework.
+
 - [Webpack](https://webpack.github.io/)
 - [Vue.js](https://vuejs.org/)
 
@@ -139,6 +144,9 @@
 - [Рабочие решения](https://github.com/worksolutions)
 
 ### Репозитории
+В разделе содержатся ссылки на репозитории утилит, библиотек, модулей и компонент
+разработанных специально для взаимодействия с Bitrix Framework.
+
 - [Базовые битриксовые компоненты (ББК)](https://github.com/bitrix-expert/bbc)
 - [Модуль ББК](https://github.com/bitrix-expert/bbc-module)
 - [i18n in Bitrix CMS](https://github.com/notamedia/bitrix-i18n)
@@ -154,6 +162,7 @@
 - [1C-Bitrix Reduce Migrations](https://github.com/worksolutions/bitrix-reduce-migrations)
 - [rzn.library](https://github.com/AndyDune/rzn.library)
 - [bitrix-typograf](https://github.com/askew-/bitrix-typograf)
+- [Bitrix24 REST API client](https://github.com/2BAD/bitrix) (TypeScript)
 
 ## <a id="confs">Конференции</a>
 - [Видео с партнерской конференции "1С-Битрикс" (Лето 2013)](https://conf.1c-bitrix.ru/summer2013/about/media/)
