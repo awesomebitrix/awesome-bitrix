@@ -163,6 +163,7 @@
 - [rzn.library](https://github.com/AndyDune/rzn.library)
 - [bitrix-typograf](https://github.com/askew-/bitrix-typograf)
 - [Bitrix24 REST API client](https://github.com/2BAD/bitrix) (TypeScript)
+- [Примеры чат-ботов от команды Bitrix](https://bitbucket.org/Bitrix24com/rest-bot-echotest)
 
 ## <a id="confs">Конференции</a>
 - [Видео с партнерской конференции "1С-Битрикс" (Лето 2013)](https://conf.1c-bitrix.ru/summer2013/about/media/)
