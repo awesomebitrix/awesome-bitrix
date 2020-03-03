@@ -98,6 +98,7 @@
 - [Dockerized Push Server](https://github.com/ikarpovich/bitrix-push-server)
 - [Сниппеты стандартных компонент Bitrix](https://github.com/matiaspub/bxCompSnpt)
 - [bxApiDocs](https://github.com/matiaspub/bxApiDocs)
+- [Весь код Битрикса bxapi](https://bxapi.ru/)
 
 ## <a id="php-libs">Библиотеки PHP</a>
 - [Контейнер для внедрения зависимостей](http://container.thephpleague.com/)
@@ -117,6 +118,7 @@
 - [Блог компании Интерволга](http://www.intervolga.ru/blog/)
 - [База знаний Рабочих решений](https://github.com/worksolutions/knowbase)
 - [Блог "Документация, курсы и все остальное..." Роберта Басырова](https://dev.1c-bitrix.ru/community/blogs/Docs_and_other/)
+- [Блог компании Prominado](https://prominado.ru/blog/)
 
 ## <a id="articles">Статьи</a>
 - [D7-аналоги любимых функций в 1С-Битрикс](http://www.intervolga.ru/blog/projects/d7-analogi-lyubimykh-funktsiy-v-1s-bitriks/)
