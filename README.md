@@ -97,7 +97,7 @@
 - [BitrixDock: Готовое Docker окружение](https://github.com/bitrixdock/bitrixdock)
 - [Dockerized Push Server](https://github.com/ikarpovich/bitrix-push-server)
 - [Сниппеты стандартных компонент Bitrix](https://github.com/matiaspub/bxCompSnpt)
-- [bxApiDocs](https://github.com/matiaspub/bxApiDocs)
+- [bxApiDocs](https://github.com/matiaspub/bxApiDocs) ([Плагин для PhpStorm](https://plugins.jetbrains.com/plugin/14703-bitrix-idea))
 - [Весь код Битрикса bxapi](https://bxapi.ru/)
 
 ## <a id="php-libs">Библиотеки PHP</a>
