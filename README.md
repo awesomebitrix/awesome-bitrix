@@ -1,4 +1,4 @@
-# Потрясающий Битрикс [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+трясающий Битрикс [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![Join the chat at https://gitter.im/awesomebitrix/awesome-bitrix](https://badges.gitter.im/awesomebitrix/awesome-bitrix.svg)](https://gitter.im/awesomebitrix/awesome-bitrix?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -28,7 +28,8 @@
 
 ## <a id="courses">Учебные курсы</a>
 
-В разделе содержатся, сгруппированные по тематическим разделам, [официальные курсы по платформе Битрикс](http://dev.1c-bitrix.ru/learning/index.php#tab-online-link), включая тематические и специальные курсы. Курсы с сертификацией отмечены :star:
+В разделе содержатся, сгруппированные по тематическим разделам, [официальные курсы по платформе Битрикс](http://dev.1c-bitrix.ru/learning/index.php#tab-online-link),
+включая тематические и специальные курсы. Курсы с сертификацией отмечены :star:
 
 #### Битрикс: Управление сайтом
 - :star: [Контент-менеджер](http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34)
@@ -167,6 +168,7 @@
 - [bitrix-typograf](https://github.com/askew-/bitrix-typograf)
 - [Bitrix24 REST API client](https://github.com/2BAD/bitrix) (TypeScript)
 - [Примеры чат-ботов от команды Bitrix](https://bitbucket.org/Bitrix24com/rest-bot-echotest)
+- [Инструменты от Александра Нестерова](https://github.com/beta-eto-code)
 
 ## <a id="confs">Конференции</a>
 - [Видео с партнерской конференции "1С-Битрикс" (Лето 2013)](https://conf.1c-bitrix.ru/summer2013/about/media/)
