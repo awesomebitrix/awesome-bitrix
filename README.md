@@ -97,7 +97,8 @@
 - [Скрипт тестирования конфигурации сервера](http://www.1c-bitrix.ru/download/files/scripts/bitrix_server_test.php)
 - [Скрипт BitrixSetup для удаленной установки на хостинг](http://www.1c-bitrix.ru/download/scripts/bitrixsetup.php)
 - [Скрипт восстановления из резервной копии](http://www.1c-bitrix.ru/download/scripts/restore.php)
-- [BitrixDock: Готовое Docker окружение](https://github.com/bitrixdock/bitrixdock)
+- [BitrixDock](https://github.com/bitrixdock/bitrixdock) - Docker-окружение для Bitrix
+- [docker.sandbox](https://github.com/beta-eto-code/docker.sandbox) - Docker-окружение для Bitrix
 - [Dockerized Push Server](https://github.com/ikarpovich/bitrix-push-server)
 - [Сниппеты стандартных компонент Bitrix](https://github.com/matiaspub/bxCompSnpt)
 - [bxApiDocs](https://github.com/matiaspub/bxApiDocs)
