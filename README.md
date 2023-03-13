@@ -134,6 +134,7 @@
 - [Блог "Документация, курсы и все остальное..." Роберта Басырова](https://dev.1c-bitrix.ru/community/blogs/Docs_and_other/)
 - [Блог компании Prominado](https://prominado.ru/blog/)
 - [Блог Алексея Поповича](https://pai-bx.com/wiki/1c-bitrix/)
+- [Блог Михаила Волкова](https://blog.mvsvolkov.ru/posts/bitrix)
 
 ## <a id="articles">Статьи</a>
 - [D7-аналоги любимых функций в 1С-Битрикс](http://www.intervolga.ru/blog/projects/d7-analogi-lyubimykh-funktsiy-v-1s-bitriks/)
