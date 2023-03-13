@@ -70,6 +70,9 @@
 - [D7. Разработка собственного модуля](http://academy.1c-bitrix.ru/education/index.php?COURSE_ID=91&INDEX=Y)
 - [Быстрый старт разработчика](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=95)
 
+#### Неофициальные курсы
+- [Курс Волкова Михаила (BitrixCasts) "Базовые элементы в Битриксе"](https://bitrixcasts.ru/courses/basic-elements-in-bitrix)
+
 #### Устаревшие курсы
 
 - [Интеграция](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=4&INDEX=Y)
