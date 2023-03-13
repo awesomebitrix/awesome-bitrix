@@ -107,6 +107,7 @@
 - [bxApiDocs](https://github.com/matiaspub/bxApiDocs)
 - [Весь код Битрикса bxapi](https://bxapi.ru/)
 - [Виртуальная лаборатория](https://bitrixlabs.ru/) - официальная виртуальная лаборатория 1C-Bitrix с возможностью тестирования продукта
+- [Bitrix.gitignore](https://github.com/github/gitignore/blob/main/community/PHP/Bitrix.gitignore) - шаблон `.gitignore` для Bitrix
 
 ## <a id="php-libs">Библиотеки PHP</a>
 В разделе размещены полезные для Bitrix-разработчика PHP-библиотеки не имеющие явной
