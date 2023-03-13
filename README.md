@@ -135,6 +135,7 @@
 - [Блог компании Prominado](https://prominado.ru/blog/)
 - [Блог Алексея Поповича](https://pai-bx.com/wiki/1c-bitrix/)
 - [Блог Михаила Волкова](https://blog.mvsvolkov.ru/posts/bitrix)
+- [Блог Антона Пашкова](http://www.pashkof.pro/articles/)
 
 ## <a id="articles">Статьи</a>
 - [D7-аналоги любимых функций в 1С-Битрикс](http://www.intervolga.ru/blog/projects/d7-analogi-lyubimykh-funktsiy-v-1s-bitriks/)
