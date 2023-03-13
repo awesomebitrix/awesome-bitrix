@@ -130,6 +130,7 @@
 - [База знаний Рабочих решений](https://github.com/worksolutions/knowbase)
 - [Блог "Документация, курсы и все остальное..." Роберта Басырова](https://dev.1c-bitrix.ru/community/blogs/Docs_and_other/)
 - [Блог компании Prominado](https://prominado.ru/blog/)
+- [Блог Алексея Поповича](https://pai-bx.com/wiki/1c-bitrix/)
 
 ## <a id="articles">Статьи</a>
 - [D7-аналоги любимых функций в 1С-Битрикс](http://www.intervolga.ru/blog/projects/d7-analogi-lyubimykh-funktsiy-v-1s-bitriks/)
@@ -167,7 +168,7 @@
 - [1C-Bitrix Reduce Migrations](https://github.com/worksolutions/bitrix-reduce-migrations)
 - [rzn.library](https://github.com/AndyDune/rzn.library)
 - [bitrix-typograf](https://github.com/askew-/bitrix-typograf)
-- [Bitrix24 REST API client](https://github.com/2BAD/bitrix) (TypeScript)
+- [Bitrix24 REST API client](https://github.com/2BAD/bitrix)
 - [Примеры чат-ботов от команды Bitrix](https://bitbucket.org/Bitrix24com/rest-bot-echotest)
 - [Инструменты от Александра Нестерова](https://github.com/beta-eto-code)
 
