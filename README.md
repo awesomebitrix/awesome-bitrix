@@ -200,7 +200,8 @@
 - [Обсуждение на форуме "Виртуальная машина BitrixVM"](http://dev.1c-bitrix.ru/community/forums/forum32/)
 - [Обсуждение "Bitrix Docker, использование Bitrix в контейнерах"](https://dev.1c-bitrix.ru/support/forum/forum32/topic92319/)
 - [Ответы на вопросы по сертификации 1С-Битрикс](http://bx-cert.ru/certification/bitrix/all/)
-- [Битрикс для разработчика](https://t.me/bitrixfordevelopers) - чат-группа в Telegram для общения Битрикс-разработчиков.
+- [Битрикс для разработчика](https://t.me/bitrixfordevelopers) - чат-группа в Telegram для общения Битрикс-разработчиков
+- [1С-Битрикс на Хабр Q&A](https://qna.habr.com/tag/1%D1%81-%D0%B1%D0%B8%D1%82%D1%80%D0%B8%D0%BA%D1%81/info)
 
 ## <a id="contributing">Как внести вклад</a>
 
