@@ -153,6 +153,7 @@
 - [Битрикс-эксперты](https://github.com/bitrix-expert)
 - [Notamedia](https://github.com/notamedia)
 - [Рабочие решения](https://github.com/worksolutions)
+- [РегионМедиа](https://github.com/regiomedia)
 
 ### Репозитории
 В разделе содержатся ссылки на репозитории утилит, библиотек, модулей и компонент
