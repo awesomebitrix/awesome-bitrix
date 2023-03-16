@@ -110,6 +110,7 @@
 - [Виртуальная лаборатория](https://bitrixlabs.ru/) - официальная виртуальная лаборатория 1C-Bitrix с возможностью тестирования продукта
 - [Bitrix.gitignore](https://github.com/github/gitignore/blob/main/community/PHP/Bitrix.gitignore) - шаблон `.gitignore` для Bitrix
 - [VMware Workstation Player](https://customerconnect.vmware.com/en/downloads/details?downloadGroup=PLAYER-1557&productId=800&rPId=55787)
+- [Punycode Converter](https://www.charset.org/punycode)
 
 ## <a id="php-libs">Библиотеки PHP</a>
 В разделе размещены полезные для Bitrix-разработчика PHP-библиотеки не имеющие явной
