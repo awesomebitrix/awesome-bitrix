@@ -90,6 +90,7 @@
 - [Документация по Javascript-библиотеке Bitrix Framework](https://dev.1c-bitrix.ru/api_help/js_lib/)
 - [Документация для разработчиков по REST API](https://dev.1c-bitrix.ru/rest_help/)
 - [Документация по D7](https://dev.1c-bitrix.ru/api_d7/)
+- [Что нового?](https://dev.1c-bitrix.ru/docs/what-s-new.php) - Лента новостей по обновлению документации Битрикс
 
 ## <a id="tools">Инструменты</a>
 В разделе собраны инструменты для решения определенных задач. Это могут быть вспомогательные
