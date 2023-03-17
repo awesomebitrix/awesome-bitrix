@@ -131,7 +131,8 @@
 - [1C-Битрикс24](https://www.1c-bitrix.ru/download/intranet.php)
 
 ## <a id="blogs">Блоги</a>
-- [Блог компании 1С-Битрикс на Хабрахабр](https://habrahabr.ru/company/bitrix/)
+- [Блог компании 1С-Битрикс на Хабрахабр](https://habr.com/ru/company/bitrix/blog/)
+- [Хаб "1С-Битрикс" на Хабре](https://habr.com/ru/hub/bitrix/)
 - [Вики ЦИТ Факт](https://github.com/studiofact/wiki-bitrix/wiki)
 - [Битрикс-эксперты](https://bitrix.expert/)
 - [Блог компании Интерволга](https://www.intervolga.ru/blog/)
