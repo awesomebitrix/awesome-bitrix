@@ -113,6 +113,7 @@
 - [VMware Workstation Player](https://customerconnect.vmware.com/en/downloads/details?downloadGroup=PLAYER-1557&productId=800&rPId=55787)
 - [Punycode Converter](https://www.charset.org/punycode)
 - [PHPBrew](https://github.com/phpbrew/phpbrew) - менеджер версий PHP
+- [Composer](https://getcomposer.org/) - менеджер зависимостей PHP
 
 ## <a id="php-libs">Библиотеки PHP</a>
 В разделе размещены полезные для Bitrix-разработчика PHP-библиотеки не имеющие явной
