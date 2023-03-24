@@ -64,12 +64,12 @@
 - [Партнёрский REST](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=133)
 
 #### Курсы Академии 1C-Битрикс
+- [Быстрый старт разработчика](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=95)
 - [Интеграция дизайна и настройка платформы](https://academy.1c-bitrix.ru/education/?COURSE_ID=65)
 - [Основные технологии и расширение типовых возможностей системы](https://academy.1c-bitrix.ru/education/?COURSE_ID=66&INDEX=Y)
 - [Расширенные технологии и производительность](https://academy.1c-bitrix.ru/education/?COURSE_ID=67&INDEX=Y)
 - [Разработка на D7. Введение](https://academy.1c-bitrix.ru/education/index.php?COURSE_ID=85&INDEX=Y)
 - [D7. Разработка собственного модуля](https://academy.1c-bitrix.ru/education/index.php?COURSE_ID=91&INDEX=Y)
-- [Быстрый старт разработчика](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=95)
 
 #### Неофициальные курсы
 - [Курс Волкова Михаила (BitrixCasts) "Базовые элементы в Битриксе"](https://bitrixcasts.ru/courses/basic-elements-in-bitrix)
@@ -112,6 +112,7 @@
 - [Bitrix.gitignore](https://github.com/github/gitignore/blob/main/community/PHP/Bitrix.gitignore) - шаблон `.gitignore` для Bitrix
 - [VMware Workstation Player](https://customerconnect.vmware.com/en/downloads/details?downloadGroup=PLAYER-1557&productId=800&rPId=55787)
 - [Punycode Converter](https://www.charset.org/punycode)
+- [PHPBrew](https://github.com/phpbrew/phpbrew) - менеджер версий PHP
 
 ## <a id="php-libs">Библиотеки PHP</a>
 В разделе размещены полезные для Bitrix-разработчика PHP-библиотеки не имеющие явной
