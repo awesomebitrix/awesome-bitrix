@@ -1,6 +1,6 @@
 # Потрясающий Битрикс
 
-[![telegram_badge]][https://t.me/awesomebitrix]
+[telegram_badge][https://t.me/awesomebitrix]
 
 
 Полезные статьи о настройке и разработке 1C-Bitrix и Bitrix 24, а также компоненты и модули, php и javascript библиотеки.
