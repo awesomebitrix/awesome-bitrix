@@ -1,6 +1,6 @@
-# Потрясающий Битрикс [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Потрясающий Битрикс
 
-[![Join the chat at https://gitter.im/awesomebitrix/awesome-bitrix](https://badges.gitter.im/awesomebitrix/awesome-bitrix.svg)](https://gitter.im/awesomebitrix/awesome-bitrix?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![telegram_badge]][https://t.me/awesomebitrix]
 
 
 Полезные статьи о настройке и разработке 1C-Bitrix и Bitrix 24, а также компоненты и модули, php и javascript библиотеки.
