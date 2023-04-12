@@ -62,6 +62,7 @@
 - :star: [Интеграция с 1С](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=131)
 - :star: [Установка и настройка](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=135)
 - [Партнёрский REST](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=133)
+- :star: [Vue.js и Bitrix Framework](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=176)
 
 #### Курсы Академии 1C-Битрикс
 - [Быстрый старт разработчика](https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=95)
